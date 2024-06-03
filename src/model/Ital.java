@@ -4,7 +4,7 @@ package model;
 
 
 
-public class Ital extends Bor, Sor{
+public class Ital {
     public enum cimke {
         REGI,
         UJ,

@@ -5,7 +5,7 @@ public class Bor {
   
    private String tipus;
 
-    private Bor(String tipus) throws Exception {
+    public Bor(String tipus) throws Exception {
         tipusBeallitas(tipus);
     }
 
